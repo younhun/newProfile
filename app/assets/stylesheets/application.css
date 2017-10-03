@@ -25,10 +25,6 @@
     text-align: center;
 }
 
-.top-margin{
-    margin-top: 100px;
-}
-
 .top-nav{
     color: yellow;
 }
@@ -37,3 +33,13 @@
     margin-top: 100px;
     margin-bottom: 350px;
 }
+
+.about-background{
+    margin-top: 60px;
+    margin-left: 450px;
+}
+
+
+
+
+
